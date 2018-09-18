@@ -20,6 +20,7 @@ const div = createElement('div');
 const el = createElement('div', {
     notAppend: false, // default
     parent: document.body, // default
+    uniq: true, // default
     innerHTML: '<span></span>',
     className: 'abc',
 });
