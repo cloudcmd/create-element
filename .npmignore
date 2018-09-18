@@ -1,0 +1,7 @@
+lib
+.*
+yarn-error.log
+
+*.spec.js
+.spec
+
