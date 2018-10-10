@@ -66,7 +66,7 @@
     "wraptile": "^2.0.0"
   },
   "dependencies": {
-    "currify": "^2.0.3",
+    "currify": "^3.0.0",
     "fullstore": "^1.0.0"
   }
 }
