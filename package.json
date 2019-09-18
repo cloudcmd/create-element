@@ -1,6 +1,6 @@
 {
   "name": "@cloudcmd/create-element",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "create dom element",
   "homepage": "http://github.com/cloudcmd/create-element",
   "repository": {
@@ -18,12 +18,6 @@
     "coverage": "madrun coverage",
     "report": "madrun report",
     "compile": "madrun compile",
-    "build": "madrun build",
-    "build:js": "madrun build:js",
-    "legacy:index": "madrun legacy:index",
-    "clean": "madrun clean",
-    "wisdom": "madrun wisdom",
-    "lint:js": "madrun lint:js",
     "lint": "madrun lint",
     "fix:lint": "madrun fix:lint",
     "test": "madrun test",
