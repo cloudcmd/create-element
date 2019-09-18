@@ -66,5 +66,8 @@
   "dependencies": {
     "currify": "^3.0.0",
     "fullstore": "^2.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
