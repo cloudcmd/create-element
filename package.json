@@ -17,7 +17,6 @@
     "watch:coverage": "madrun watch:coverage",
     "coverage": "madrun coverage",
     "report": "madrun report",
-    "compile": "madrun compile",
     "lint": "madrun lint",
     "fix:lint": "madrun fix:lint",
     "test": "madrun test",
@@ -51,7 +50,6 @@
     "stylelint": "^13.2.1",
     "stylelint-config-standard": "^20.0.0",
     "supertape": "^1.2.3",
-    "webpack-cli": "^3.0.8",
     "wraptile": "^3.0.0"
   },
   "engines": {
