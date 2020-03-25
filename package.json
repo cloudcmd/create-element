@@ -1,6 +1,6 @@
 {
   "name": "@cloudcmd/create-element",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "create dom element",
   "homepage": "http://github.com/cloudcmd/create-element",
   "repository": {
