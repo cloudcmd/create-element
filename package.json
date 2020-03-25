@@ -49,7 +49,7 @@
     "redrun": "^7.0.2",
     "rimraf": "^3.0.0",
     "stylelint": "^13.2.1",
-    "stylelint-config-standard": "^19.0.0",
+    "stylelint-config-standard": "^20.0.0",
     "supertape": "^1.2.3",
     "webpack-cli": "^3.0.8",
     "wraptile": "^3.0.0"
