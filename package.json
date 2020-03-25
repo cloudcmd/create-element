@@ -47,8 +47,6 @@
     "putout": "^7.20.2",
     "redrun": "^7.0.2",
     "rimraf": "^3.0.0",
-    "stylelint": "^13.2.1",
-    "stylelint-config-standard": "^20.0.0",
     "supertape": "^1.2.3",
     "wraptile": "^3.0.0"
   },
